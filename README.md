@@ -1,8 +1,9 @@
-# Available-WeChatMiniProgram
+：# Available-WeChatMiniProgram
 ## 下周工作安排
 - 苏伦俊：完成***
 - 任宏帅：完成软件使用说明书
 - 李文：完成***
+- 每周三19:30在线会议#腾讯会议：385-8579-8385
   
 ## 总体时间安排
 - 12月10日初步完成所有工作
