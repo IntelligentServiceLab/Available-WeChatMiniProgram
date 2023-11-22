@@ -1,4 +1,4 @@
-：# Available-WeChatMiniProgram
+# Available-WeChatMiniProgram
 ## 下周工作安排
 - 苏伦俊：完成***
 - 任宏帅：完成软件使用说明书撰写，并完成后端工作的交接
