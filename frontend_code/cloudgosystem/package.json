@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "uni-simple-router": "^2.0.8-beta.4"
+  },
+  "devDependencies": {
+    "babel-plugin-component": "^1.1.1"
+  }
+}
